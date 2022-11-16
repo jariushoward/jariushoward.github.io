@@ -41,9 +41,13 @@ ol {
 
 header,
 h2,
-figure,
-footer {
+figure {
   text-align: center;
+}
+
+footer {
+  font-size: 20px;
+  margin: 5px;
 }
 
 table,
