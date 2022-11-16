@@ -29,6 +29,10 @@ h3 {
   font-size: 20px;
 }
 
+caption {
+  font-weight: 900;
+}
+
 figcaption {
   font-style: italic;
 }
