@@ -57,6 +57,7 @@ figure {
 footer {
   font-size: 20px;
   margin: 3px;
+  text-decoration: overline;
 }
 
 table,
