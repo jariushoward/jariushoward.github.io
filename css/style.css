@@ -7,6 +7,11 @@ body {
   padding: 10px auto;
 }
 
+h1,
+figure {
+  margin: 20px; 
+}
+
 h2 {
   font-family: "Heebo", "Helivitica", "Arial", sans-serif;
   font-weight: 900;
