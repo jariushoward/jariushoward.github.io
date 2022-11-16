@@ -20,6 +20,10 @@ h3 {
   font-height: 20px;
 }
 
+figcaption {
+  font-style: italic;
+}
+
 ul,
 ol {
   margin: 8px;
