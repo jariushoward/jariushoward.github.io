@@ -25,7 +25,8 @@ ol {
   padding: 8px;
 }
 
-header {
+header,
+h2 {
   text-align: center;
 }
 
