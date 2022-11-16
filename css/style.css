@@ -25,6 +25,9 @@ ol {
   padding: 8px;
 }
 
-table {
+table,
+tr,
+th,
+td {
   border: 1px solid rgb(233,80,58)
 }
