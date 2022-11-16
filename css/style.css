@@ -4,11 +4,13 @@ body {
   font-family: "Heebo", "Helvitica", "Arial", sans-serif;
   color: rgb(233,80,58);
   max-width: 960px;
+  margin: 0 auto;
+  padding: 0 auto;
 }
 
 h1,
 figure {
-  margin: 20px auto; 
+  margin: 20px auto;
 }
 
 h2 {
