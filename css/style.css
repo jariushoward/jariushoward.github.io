@@ -64,7 +64,7 @@ body {
 }
 
 header {
-  grid area: header;
+  grid-area: header;
 }
 
 nav {
