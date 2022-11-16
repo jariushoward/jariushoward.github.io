@@ -13,13 +13,13 @@ body {
 h2 {
   font-family: "Heebo", "Helivitica", "Arial", sans-serif;
   font-weight: 900;
-  font-size: 24px;
+  font-size: 32px;
   text-decoration: underline;
 }
 
 h3 {
   font-weight: 900;
-  font-size: 20px;
+  font-size: 26px;
 }
 
 figcaption {
