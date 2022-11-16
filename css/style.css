@@ -26,7 +26,8 @@ ol {
 }
 
 header,
-h2 {
+h2,
+figure {
   text-align: center;
 }
 
