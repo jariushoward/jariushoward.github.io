@@ -3,6 +3,8 @@
 body {
   font-family: "Heebo", "Helvitica", "Arial", sans-serif;
   color: rgb(233,80,58);
+  max-width: 960px;
+  margin: 20px auto; 
 }
 
 h2 {
@@ -13,5 +15,5 @@ h2 {
 
 h3 {
   font-weight: 900;
-  font-height: 20px; 
+  font-height: 20px;
 }
