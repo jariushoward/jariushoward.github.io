@@ -25,6 +25,10 @@ ol {
   padding: 8px;
 }
 
+header {
+  text-align: center;
+}
+
 table,
 tr,
 th,
