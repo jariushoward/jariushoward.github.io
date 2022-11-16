@@ -24,3 +24,7 @@ ol {
   margin: 8px;
   padding: 8px;
 }
+
+table {
+  border: 1px solid rgb(233,80,58)
+}
