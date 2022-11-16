@@ -31,3 +31,28 @@ th,
 td {
   border: 1px solid rgb(233,80,58)
 }
+
+body {
+  display: grid;
+  grid-template-areas:
+    "header  header"
+    "nav     nav"
+    "main    main"
+    "footer  footer"
+}
+
+header {
+  grid area: header;
+}
+
+nav {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
