@@ -33,6 +33,10 @@ figcaption {
   font-style: italic;
 }
 
+nav {
+  font-size: 20px;
+}
+
 ul,
 ol {
   margin: 8px;
