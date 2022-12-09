@@ -1,5 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;900&display=swap');
 
 body {
-  color: rgb(233,80,58);
+  font-family: "Heebo", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  color: rgb(90,90,90);
+}
+
+h1,
+h2 {
+  font-weight: 900;
 }
